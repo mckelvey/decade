@@ -35,7 +35,8 @@
     "fast-xml-parser": "^3.12.5",
     "gatsby-plugin-remove-trailing-slashes": "^2.0.4",
     "gh-pages": "^2.0.1",
-    "prettier": "^1.14.2"
+    "prettier": "^1.14.2",
+    "prop-types": "^15.6.2"
   },
   "repository": {
     "type": "git",
