@@ -61,7 +61,7 @@ readdir(svgFolder, (error, items) => {
       );
       const data = collectData(jsObject, yearMatcher);
       writeFile(
-        `${jsonFolder}/${fileYear}.json`,
+        `${jsonFolder}/y${fileYear}.json`,
         JSON.stringify(data),
         error => {
           if (error) {
