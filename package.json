@@ -34,6 +34,7 @@
   },
   "devDependencies": {
     "fast-xml-parser": "^3.12.5",
+    "gatsby-plugin-remove-trailing-slashes": "^2.0.4",
     "gh-pages": "^2.0.1",
     "prettier": "^1.14.2"
   },
